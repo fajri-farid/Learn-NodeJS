@@ -1,0 +1,3 @@
+Path merupakan standard library yang bisa kita gunakan untuk bekerja dengan lokasi file dan 
+directory / folder
+https://nodejs.org/dist/latest-v16.x/docs/api/path.html 

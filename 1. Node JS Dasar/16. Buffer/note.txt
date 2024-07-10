@@ -1,0 +1,22 @@
+- Buffer merupakan object yang berisikan urutan byte dengan panjang tetap.
+- Buffer merupakan turunan dari tipe data Uint8Array
+- https://nodejs.org/dist/latest-v16.x/docs/api/buffer.html 
+
+BUFFERRING ENCODING
+- Buffer juga bisa digunakan untuk melakukan encoding dari satu encoding ke encoding yang lain
+- Ada banyak encoding yang didukung oleh Buffer, misal utf8, ascii,  hex, base64, base64url dan lain-lain
+
+UTF-8
+UTF-8 (8-bit Unicode Transformation Format) adalah standar encoding yang mengonversi setiap karakter 
+teks menjadi satu atau lebih byte. Ini adalah encoding yang umum digunakan karena mendukung berbagai 
+karakter dari banyak bahasa.
+
+BASE-64
+Base64 adalah skema encoding yang mengonversi data biner menjadi string teks yang aman untuk 
+ditransmisikan melalui teks, seperti email atau URL. Base64 menggunakan 64 karakter (huruf besar dan 
+kecil, angka, dan dua simbol) untuk merepresentasikan data biner.
+
+HEX
+Encoding hexadecimal mengonversi data biner menjadi representasi string dalam format heksadesimal. 
+Setiap byte data biner diwakili oleh dua karakter heksadesimal (0-9, a-f). Ini berguna untuk debugging 
+dan melihat data biner dalam format yang lebih mudah dibaca.

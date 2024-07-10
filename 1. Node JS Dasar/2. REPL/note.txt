@@ -1,0 +1,9 @@
+- REPL singkatan dari Read Eval Print Loop
+- Yaitu mekanisme dimana program bisa membaca langsung kode program yang diketikkan, lalu mengeksekusinya, 
+- menampilkan hasilnya, lalu mengulangi dari awal lagi
+- NodeJS mendukung REPL, sehingga lebih mudah ketika belajar
+- Namun tetap, saya menyarankan menyimpan kode program di file JavaScript, agar lebih mudah diubah ketika 
+  terjadi masalah
+- Untuk menggunakan NodeJS REPL, cukup jalankan aplikasi node saja
+
+ketik "node" di terminal

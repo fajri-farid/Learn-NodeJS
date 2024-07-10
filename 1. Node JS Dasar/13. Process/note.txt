@@ -1,0 +1,7 @@
+PROCESS
+- Process merupakan standard library yang digunakan untuk mendapatkan informasi proses NodeJS yang sedang 
+  berjalan
+- Process juga merupakan instance dari EventEmitter, sehingga kita bisa menambahkan listener kedalam 
+- Process
+- https://nodejs.org/dist/latest-v16.x/docs/api/process.html 
+
