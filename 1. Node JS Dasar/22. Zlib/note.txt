@@ -1,0 +1,2 @@
+Zlib adalah standard library yang digunakan untuk melakukan kompresi menggunakan Gzip
+https://nodejs.org/dist/latest-v16.x/docs/api/zlib.html 

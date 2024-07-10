@@ -1,0 +1,5 @@
+- Console adalah standard library yang sudah sering kita gunakan
+- Secara global, object console bisa kita gunakan tanpa harus melakukan import module, dan console 
+  melakukan print text nya ke stdout
+- Namun jika kita juga bisa membuat object Console sendiri jika kita mau
+- https://nodejs.org/dist/latest-v16.x/docs/api/console.html 
